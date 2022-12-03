@@ -4,7 +4,7 @@
 
 #### Instructions:
 
-* Clone '''Final_Project_final.ipynb'''.
+* Clone ```Final_Project_final.ipynb```.
 * Upload the 
 
 #### Results:
