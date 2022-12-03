@@ -30,19 +30,24 @@ Since Spacy (the Natural Lanuage Preprocessing toolkit) is slow for preprocessin
 **Exploratory Data Analysis**
 
 Word Length Properties and Distribution:
-<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/1.png">
-<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/2.png">
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/1.png">
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/2.png">
 
 Word Occurrence Distribution:
-<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/3.png">
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/3.png">
 
 **Data Preprocessing**
 
 Clean data results:
-<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/4.png">
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/4.png">
 
 TF-IDF Vectorization for first headline:
-<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/5.png">
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/5.png">
 
 * **Latent Semantic Analysis (LSA)**
 
