@@ -88,9 +88,20 @@ Assigning each document to a topic
 
 <img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/15.png">
 
+**Non-Negative Matrix Factorization (NMF)**
 
+Top 10 words for each of the topics:
 
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/7.png">
 
-Visualized embedding of documents in 2-D space:
+WordCloud NMF Topic 0:
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/13.png">
+
+Topic-Term Distribution:
+
+Assigning each term to a topic
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/17.png">
 
 
