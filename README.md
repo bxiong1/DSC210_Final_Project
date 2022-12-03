@@ -4,10 +4,11 @@
 
 #### Instructions:
 
-* Download the dataset from [here](https://drive.google.com/file/d/17Vw1p2L2liha-GqRiuXb_cub4Ruz83o1/view?usp=sharing)
+Approch 1:
+* Download the dataset from [here](https://drive.google.com/file/d/17Vw1p2L2liha-GqRiuXb_cub4Ruz83o1/view?usp=sharing), and save it in your Google Drive under [My Drive](https://drive.google.com/drive/my-drive).
 * Clone ```Final_Project_final.ipynb``` from the Github Repository.
 * Upload the notebook file on [Google Colab](https://colab.research.google.com/)
-* 
+* Run all cells.
 
 #### Results:
 
