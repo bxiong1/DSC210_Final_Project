@@ -4,7 +4,8 @@
 
 #### Instructions:
 
-* Open .ipynb and run all the cells of the notebook.
+* Clone '''Final_Project_final.ipynb'''.
+* Upload the 
 
 #### Results:
 
