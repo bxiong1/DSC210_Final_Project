@@ -1,4 +1,4 @@
-# Project: Topic modeling with Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF)
+# Topic modeling with Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF)
 ### Course: DSC 210: Numerical Linear Algebra for Data Science
 ### Instructor: Dr. Tsui-wei Weng
 
