@@ -50,7 +50,6 @@ TF-IDF Vectorization for first headline:
 <img width="828" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/5.png">
 
 
-**Notice that the model results and evaluation scores may vary by a little bit each time when re-running the code (This might be caused by the Gensim toolkit we used to implement algorithms). In order to alliveate this problem we ran this code 5 times and average the scores for better comparison. Please refer to ```DSC210_Mean_Eva.ipynb``` to see the code implementation for averaging the evaluation scores.**
 
 **Latent Semantic Analysis (LSA)**
 
@@ -120,4 +119,4 @@ Assigning each term to a topic
 <img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/11.png">
 
 
-
+**Notice that the model results and evaluation scores may vary by a little bit each time when re-running the code (This might be caused by the Gensim toolkit we used to implement algorithms). In order to alliveate this problem we ran this code 5 times and average the scores for better comparison. Please refer to ```DSC210_Mean_Eva.ipynb``` to see the code implementation for averaging the evaluation scores.**
