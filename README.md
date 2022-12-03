@@ -106,6 +106,8 @@ Assigning each term to a topic
 
 <img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/17.png">
 
+####Evaluation Metrics
+
 **Time Execution**
 
 LSA:
