@@ -21,6 +21,9 @@ Since Spacy (the Natural Lanuage Preprocessing toolkit) is slow for preprocessin
 * Resume running the cell from here (Make sure to run this cell):
 <img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/Screen%20Shot%202022-12-03%20at%2010.30.54%20AM.png">
 * Run the result of the cells from the resume point which is shown above.
+
+
+
 #### Results:
 
 * **Latent Semantic Analysis (LSA)**
