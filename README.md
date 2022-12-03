@@ -16,8 +16,8 @@ Since Spacy (the Natural Lanuage Preprocessing toolkit) is slow for preprocessin
 * Download the dataset from [here](https://drive.google.com/file/d/17Vw1p2L2liha-GqRiuXb_cub4Ruz83o1/view?usp=sharing) and the preprocessed dataset from [here](https://drive.google.com/file/d/1-MsJTm7dBclK9wBkjZql77FUCqf0prTi/view?usp=sharing), and save both of the dataset in your Google Drive under [My Drive](https://drive.google.com/drive/my-drive).
 * Clone ```Final_Project_final.ipynb``` from the Github Repository.
 * Upload the notebook file on [Google Colab](https://colab.research.google.com/)
-* Skip the Cell show below:
-<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://user-images.githubusercontent.com/18485647/163595256-eaa19d1b-9c52-4cd2-9a63-b1dbcd728d23.png">
+* Skip running the cell start from below:
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/Screen%20Shot%202022-12-03%20at%2010.30.33%20AM.png">
 
 #### Results:
 
