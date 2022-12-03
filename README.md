@@ -11,6 +11,7 @@ Approch 1(Full Appoarch):
 * Run all cells.
 
 Apporach 2(Faster Appoarch):
+
 Since Spacy (the Natural Lanuage Preprocessing toolkit) is slow for preprocessing the data (takes around 30-40 mins to preprocess), if you are interested in a faster implementation on our results you can follow the instruction under here:
 
 * Download the dataset from [here](https://drive.google.com/file/d/17Vw1p2L2liha-GqRiuXb_cub4Ruz83o1/view?usp=sharing) and the preprocessed dataset from [here](https://drive.google.com/file/d/1-MsJTm7dBclK9wBkjZql77FUCqf0prTi/view?usp=sharing), and save both of the dataset in your Google Drive under [My Drive](https://drive.google.com/drive/my-drive).
