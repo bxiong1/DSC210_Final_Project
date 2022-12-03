@@ -4,13 +4,13 @@
 
 #### Instructions:
 
-Approch 1(Full Appoarch):
+**Approch 1 (Full Appoarch)**:
 * Download the dataset from [here](https://drive.google.com/file/d/17Vw1p2L2liha-GqRiuXb_cub4Ruz83o1/view?usp=sharing), and save it in your Google Drive under [My Drive](https://drive.google.com/drive/my-drive).
 * Clone ```Final_Project_final.ipynb``` from the Github Repository.
 * Upload the notebook file on [Google Colab](https://colab.research.google.com/)
 * Run all cells.
 
-Apporach 2(Faster Appoarch):
+**Apporach 2 (Faster Appoarch)**:
 
 Since Spacy (the Natural Lanuage Preprocessing toolkit) is slow for preprocessing the data (takes around 30-40 mins to preprocess), if you are interested in a faster implementation on our results you can follow the instruction under here:
 
@@ -27,6 +27,22 @@ Since Spacy (the Natural Lanuage Preprocessing toolkit) is slow for preprocessin
 
 
 #### Results:
+**Exploratory Data Analysis**
+
+Word Length Properties and Distribution:
+<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/1.png">
+<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/2.png">
+
+Word Occurrence Distribution:
+<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/3.png">
+
+**Data Preprocessing**
+
+Clean data results:
+<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/4.png">
+
+TF-IDF Vectorization for first headline:
+<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/5.png">
 
 * **Latent Semantic Analysis (LSA)**
 
