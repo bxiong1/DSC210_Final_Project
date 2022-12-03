@@ -49,20 +49,45 @@ TF-IDF Vectorization for first headline:
 
 <img width="828" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/5.png">
 
-* **Latent Semantic Analysis (LSA)**
+**Latent Semantic Analysis (LSA)**
 
-Top 5 words for each of the topics:
-<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://user-images.githubusercontent.com/18485647/163595256-eaa19d1b-9c52-4cd2-9a63-b1dbcd728d23.png">
+Top 10 words for each of the topics:
 
-Distributions of top 3 topics to each document:
-<p align="center">
-<img width="33%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="">
-</p>
-Visualized embedding of documents in 2-D space:
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/8.png">
+
+WordCloud LSA Topic 0:
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/14.png">
+
+Topic-Term Distribution:
+
+Assigning each term to a topic
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/16.png">
 
 
+**Latent Dirichlet Allocation (LDA)**
 
-* **Latent Dirichlet Allocation (LDA)**
+Top 10 words for each of the topics:
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/6.png">
+
+WordCloud LSA Topic 0:
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/12.png">
+
+Topic-Term Distribution:
+
+Assigning each term to a topic
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/18.png">
+
+Document-Topic Distribution:
+
+Assigning each document to a topic
+
+<img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://github.com/bxiong1/DSC210_Final_Project/blob/main/DSC210_Github_Readme/15.png">
+
 
 
 
