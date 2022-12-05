@@ -140,3 +140,15 @@ NMF:
 
 
 **Notice that the model results and evaluation scores may vary by a little bit each time when re-running the code (This might be caused by the Gensim toolkit we used to implement algorithms). In order to alliveate this problem we ran this code 5 times and average the scores for better comparison. Please refer to ```DSC210_Mean_Eva.ipynb``` to see the code implementation for averaging the evaluation scores and the averaged result for each model.**
+
+#### Reference:
+[1]“Topic Modelling with LSA and LDA,” kaggle.com. https://www.kaggle.com/code/rcushen/topic-modelling-with-lsa-and-lda (accessed Dec. 05, 2022).
+‌[2]“python - Applying Spacy Parser to Pandas DataFrame w/ Multiprocessing,” Stack Overflow. https://stackoverflow.com/questions/44395656/applying-spacy-parser-to-pandas-dataframe-w-multiprocessing (accessed Dec. 05, 2022).
+[3]“gensim: topic modelling for humans,” radimrehurek.com. https://radimrehurek.com/gensim/models/ldamodel.html
+[4]“Gensim: topic modelling for humans,” radimrehurek.com. https://radimrehurek.com/gensim/models/nmf.html (accessed Dec. 05, 2022).
+[5]“Gensim: topic modelling for humans,” radimrehurek.com. https://radimrehurek.com/gensim/models/lsimodel.html (accessed Dec. 05, 2022).
+‌[6]K. Tran, “pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know,” neptune.ai, Jul. 21, 2022. https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know
+‌
+‌
+‌
+‌
