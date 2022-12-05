@@ -143,11 +143,17 @@ NMF:
 
 #### Reference:
 [1]“Topic Modelling with LSA and LDA,” kaggle.com. https://www.kaggle.com/code/rcushen/topic-modelling-with-lsa-and-lda (accessed Dec. 05, 2022).
+
 ‌[2]“python - Applying Spacy Parser to Pandas DataFrame w/ Multiprocessing,” Stack Overflow. https://stackoverflow.com/questions/44395656/applying-spacy-parser-to-pandas-dataframe-w-multiprocessing (accessed Dec. 05, 2022).
+
 [3]“gensim: topic modelling for humans,” radimrehurek.com. https://radimrehurek.com/gensim/models/ldamodel.html
+
 [4]“Gensim: topic modelling for humans,” radimrehurek.com. https://radimrehurek.com/gensim/models/nmf.html (accessed Dec. 05, 2022).
+
 [5]“Gensim: topic modelling for humans,” radimrehurek.com. https://radimrehurek.com/gensim/models/lsimodel.html (accessed Dec. 05, 2022).
-‌[6]K. Tran, “pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know,” neptune.ai, Jul. 21, 2022. https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know
+
+‌[6]K. Tran, “pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know,” neptune.ai, Jul. 21, 2022. 
+https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know
 ‌
 ‌
 ‌
